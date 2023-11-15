@@ -2,3 +2,28 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+# System files
+.DS_Store
+Thumbs.db
+
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependency directories (e.g., if using Bundler and Node)
+/vendor/
+/node_modules/
+
+# Environment variables and config files that should not be committed
+.env
+config.yml
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+*.swo
+
