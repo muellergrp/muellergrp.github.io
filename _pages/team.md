@@ -24,4 +24,4 @@ University of California San Francisco
 
 
 __You!__<br/>
-The lab is looking for new members to join. If you think you might be excited about the work we do, get in touch!<br/><br/>
+The lab is looking for new members to join. If are excited about the work we do, get in touch!<br/><br/>
