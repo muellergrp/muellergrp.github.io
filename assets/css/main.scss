@@ -8,6 +8,8 @@
     color: #052049; 
 }  
 
+
+
 .site-header {
   background-color: #052049; /* Your desired header background color */
 }
@@ -74,23 +76,42 @@
 }
 
 
-.content-container {
-  display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  height:70vh; /* Adjust the height as needed */
-  text-align: center;
-  font-size: 25px
+// .content-container {
+//   display: flex;
+//   justify-content: center; /* Center horizontally */
+//   align-items: center; /* Center vertically */
+//   height:70vh; /* Adjust the height as needed */
+//   text-align: center;
+//   font-size: 25px
+// }
+
+// .team-member {
+//   display: flex; /* Aligns items in a row */
+//   align-items: center; /* Vertically aligns items in the flex container */
+//   text-align: left; /* Aligns text to the left */
+// }
+
+// .team-member img {
+//   width: auto; /* Keeps the original width of the image */
+//   height: 10%; /* Set a fixed height for consistency */
+//   margin-right: 20px; /* Space between the image and the text */
+// }
+
+.author-image {
+  width: 100px; /* Adjust the size as needed */
+  height: 100px; /* Equal to the width for a square */
+  object-fit: cover; /* This ensures the image covers the area without stretching */
 }
 
-.team-member {
-  display: flex; /* Aligns items in a row */
-  align-items: center; /* Vertically aligns items in the flex container */
-  text-align: left; /* Aligns text to the left */
+
+.page__footer {
+  background-color: #052049; /* Your desired header background color */
+  color:white;
 }
 
-.team-member img {
-  width: auto; /* Keeps the original width of the image */
-  height: 10%; /* Set a fixed height for consistency */
-  margin-right: 20px; /* Space between the image and the text */
+.social-icons li a i {
+  background-color: white;
+  border-radius: 50%; /* Optional: if you want rounded corners */
+  padding: 1px; /* Adjust the padding as needed */
 }
+

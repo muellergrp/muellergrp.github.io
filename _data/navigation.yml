@@ -5,7 +5,7 @@ main:
     url: /team/
   - title: "Publications"
     url: /publications/
-  - title: "Open Positions"
-    url: /openpositions/
+  - title: "Join"
+    url: /join/
   - title: "Contact"
     url: /contact/
