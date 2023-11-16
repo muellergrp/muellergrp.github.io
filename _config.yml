@@ -23,6 +23,9 @@ github_username: nicfel
 minimal_mistakes_skin: default
 search: true
 
+og_image: /assets/images/EPPIcenter.png
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
