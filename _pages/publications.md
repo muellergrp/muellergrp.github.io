@@ -1,13 +1,9 @@
 ---
-layout: splash
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
-
-
-## Peer-Reviewed Publications
-
 
 ### 2023
 - **M. A. Lewinsohn, T. Bedford, N. F. Müller*, A. F. Feder***  
@@ -19,6 +15,27 @@ author_profile: false
   “Impact and mitigation of sampling bias to determine viral spread: evaluating discrete phylogeography through CTMC modeling and structured coalescent model approximations”  
   *Virus Evolution*, vead010  
   [https://doi.org/10.1093/ve/vead010](https://doi.org/10.1093/ve/vead010)
+
+- **Walas N, Müller NF, Parker E, Henderson A, Capone D, Brown J, Barker T, Graham JP**  
+  “Phylodynamics Uncovers the Transmission of Antibiotic-Resistant Escherichia coli between Canines and Humans in an Urban Environment.”  
+  *BioRxiv*, 2023.  
+  [https://doi.org/10.1101%2F2023.06.01.543064](https://doi.org/10.1101%2F2023.06.01.543064)
+
+- **M. I. Paredes, N. Ahmed, M. Figgins, V. Colizza, P. Lemey, J. T. McCrone, NF Müller, C. Tran-Kiem, T. Bedford**  
+  “Early underdetected dissemination across countries followed by extensive local transmission propelled the 2022 mpox epidemic.”  
+  *medRxiv*
+  [https://doi.org/10.1101/2023.07.27.23293266](https://doi.org/10.1101/2023.07.27.23293266)
+
+- **Miguel I. Paredes, Amanda C. Perofsky, ..., Cécile Viboud, Helen Chu, Nicola F. Müller, Trevor Bedford**  
+  “Local-Scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county.”  
+  *medRxiv*  
+  [https://doi.org/10.1101/2022.12.15.22283536](https://doi.org/10.1101/2022.12.15.22283536)
+
+- **N. F. Müller, Sebastián Duchêne, Deborah A. Williamson, Benjamin Howden, Danielle J Ingle**  
+  “Tracking the horizontal transfer of plasmids in Shigella sonnei and Shigella flexneri using phylogenetics.”  
+  *BioRxiv*  
+  [https://doi.org/10.1101/2022.10.27.514108](https://doi.org/10.1101/2022.10.27.514108)
+
 
 ### 2022
 - **N. F. Müller, K. Kistler, T. Bedford**  
@@ -52,6 +69,12 @@ author_profile: false
   *Elife* 10 (2021): e66448.  
   [https://doi.org/10.7554/eLife.66448](https://doi.org/10.7554/eLife.66448)
 
+- **N. F. Müller, H. Ogilvie, C. Zhang, A. Drummond, T. Stadler**  
+  “Inference of species histories in the presence of gene flow.”  
+  *BioRxiv*  
+  [https://doi.org/10.1101/348391](https://doi.org/10.1101/348391)
+
+
 ### 2020
 - **N. F. Müller, D. Wüthrich, H. M. B. Seth-Smith, Y. Hollenstein, M. Syedbasha, D. Lang, R. A. Neher, O. Dubuis, M. Naegele, A. Buser, C. H., Nickel, N. Ritz, A.Zeller, B. M. Lang, J. Hadfield, T. Bedford, M. Battegay, R. Schneider-Sliwa, A. Egli* & T. Stadler***  
   “Characterising the epidemic spread of Influenza A/H3N2 within a city through phylogenetics”  
@@ -72,6 +95,12 @@ author_profile: false
   “Cryptic transmission of SARS-CoV-2 in Washington state”,  
   *Science* 370, no. 6516 (2020): 571-575.  
   [https://doi.org/10.1126/science.abc0523](https://doi.org/10.1126/science.abc0523)
+
+- **A. Egli, N. Goldman, N. F. Müller, M. Brunner, D. Wüthrich, S. Tschudin-Sutter, E. Hodcroft, R. Neher, C. Saalfrank, J. Hadfield, T. Bedford, M. Syedbasha, T. Vogel, N. Augustin, J. Bauer, N. Sailer, N. Amar-Sliwa, D. Lang, H. M.B. Seth-Smith, A. Blaich, Y. Hollenstein, O. Dubuis, M. Nägele, A. Buser, C. H. Nickel, N. Ritz, A. Zeller, T. Stadler, M. Battegay, R. Schneider-Sliwa**  
+  “High-resolution influenza mapping of a city reveals socioeconomic determinants of transmission within and between urban quarters.”  
+  *BioRxiv*  
+  [https://doi.org/10.1101/2020.04.03.023135](https://doi.org/10.1101/2020.04.03.023135)
+
 
 ### 2019
 - **N. F. Müller, G. Dudas, & T. Stadler**  
@@ -121,34 +150,3 @@ author_profile: false
   *Molecular Biology and Evolution*, Volume 34, Issue 11, Pages 2970–2981.  
   [https://doi.org/10.1093/molbev/msx186](https://doi.org/10.1093/molbev/msx186)
 
-## In Review
-
-- **Walas N, Müller NF, Parker E, Henderson A, Capone D, Brown J, Barker T, Graham JP**  
-  “Phylodynamics Uncovers the Transmission of Antibiotic-Resistant Escherichia coli between Canines and Humans in an Urban Environment.”  
-  *BioRxiv*, 2023.  
-  PMCID: 37398411.
-
-- **M. I. Paredes, N. Ahmed, M. Figgins, V. Colizza, P. Lemey, J. T. McCrone, NF Müller, C. Tran-Kiem, T. Bedford**  
-  “Early underdetected dissemination across countries followed by extensive local transmission propelled the 2022 mpox epidemic.”  
-  *medRxiv*  
-  [https://doi.org/10.1101/2023.07.27.23293266](https://doi.org/10.1101/2023.07.27.23293266)
-
-- **Miguel I. Paredes, Amanda C. Perofsky, ..., Cécile Viboud, Helen Chu, Nicola F. Müller, Trevor Bedford**  
-  “Local-Scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county.”  
-  *medRxiv*  
-  [https://doi.org/10.1101/2022.12.15.22283536](https://doi.org/10.1101/2022.12.15.22283536)
-
-- **N. F. Müller, Sebastián Duchêne, Deborah A. Williamson, Benjamin Howden, Danielle J Ingle**  
-  “Tracking the horizontal transfer of plasmids in Shigella sonnei and Shigella flexneri using phylogenetics.”  
-  *BioRxiv*  
-  [https://doi.org/10.1101/2022.10.27.514108](https://doi.org/10.1101/2022.10.27.514108)
-
-- **N. F. Müller, H. Ogilvie, C. Zhang, A. Drummond, T. Stadler**  
-  “Inference of species histories in the presence of gene flow.”  
-  *BioRxiv*  
-  [https://doi.org/10.1101/348391](https://doi.org/10.1101/348391)
-
-- **A. Egli, N. Goldman, N. F. Müller, M. Brunner, D. Wüthrich, S. Tschudin-Sutter, E. Hodcroft, R. Neher, C. Saalfrank, J. Hadfield, T. Bedford, M. Syedbasha, T. Vogel, N. Augustin, J. Bauer, N. Sailer, N. Amar-Sliwa, D. Lang, H. M.B. Seth-Smith, A. Blaich, Y. Hollenstein, O. Dubuis, M. Nägele, A. Buser, C. H. Nickel, N. Ritz, A. Zeller, T. Stadler, M. Battegay, R. Schneider-Sliwa**  
-  “High-resolution influenza mapping of a city reveals socioeconomic determinants of transmission within and between urban quarters.”  
-  *BioRxiv*  
-  [https://doi.org/10.1101/2020.04.03.023135](https://doi.org/10.1101/2020.04.03.023135)
