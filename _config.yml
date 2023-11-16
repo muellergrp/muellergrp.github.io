@@ -17,7 +17,9 @@ title: Müller Lab at the EPPIcenter
 name: Müller Lab at the EPPIcenter
 email: nicola.mueller@muellerlab.io
 description: >- # this means to ignore newlines until "baseurl:"
-The Müller lab aims to use phylodynamics to quantify the transmission dynamics of bacterial and viral infectious diseases, ultimately to inform public health interventions. The lab is a part of, and co-located with, the EPPIcenter at the University of California, San Francisco.
+  The Müller lab aims to use phylodynamics to quantify the transmission dynamics of bacterial and viral infectious diseases, ultimately to inform public health interventions. The lab is a part of, and co-located with, the EPPIcenter at the University of California, San Francisco.
+twitter_username: nicfelm
+github_username: nicfel
 minimal_mistakes_skin: default
 search: true
 
