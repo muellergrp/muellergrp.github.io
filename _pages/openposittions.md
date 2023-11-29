@@ -8,7 +8,7 @@ author_profile: false
 **Two phylodynamics postdoc positions in the EPPIcenter and UCSF**
 
 
-The [EPPIcenter](https://eppicenter.ucsf.edu/) and the Müller lab at **UC San Francisco (UCSF)** are seeking **two fully funded postdoctoral research fellows in phylodynamics** to study the transmission dynamics of bacterial or viral infectious diseases. The candidate will work closely with Dr. Nicola Müller and become part of the multidisciplinary research environment of the Experimental and Population-based Pathogen Investigation Center (EPPIcenter), with plenty of options for additional mentorship from other faculty. 
+The [EPPIcenter](https://eppicenter.ucsf.edu/) and the Müller lab at **UC San Francisco (UCSF)** are seeking **two postdoctoral research fellows in phylodynamics** to study the transmission dynamics of bacterial or viral infectious diseases. The candidate will work closely with Dr. Nicola Müller and become part of the multidisciplinary research environment of the Experimental and Population-based Pathogen Investigation Center (EPPIcenter), with plenty of options for additional mentorship from other faculty. The positions are fully funded.
 
 Both positions will investigate the transmission dynamics of infectious diseases from pathogen genome data using phylodynamic methods. Potential projects include:
 
