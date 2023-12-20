@@ -18,7 +18,7 @@ Both positions will investigate the transmission dynamics of infectious diseases
 
 The exact projects will be tailored to the strengths and goals of the candidates when starting the positions. The lab will support and encourage your independent research and career interests that broadly align with the lab's interests and tailor the project accordingly. You will be expected to participate in the center's meetings and seminar series, perform novel research, publish in peer-reviewed journals, and participate in national and international conferences. 
 
-The expected pay range for the position is based on experience and is anticipated to be between 66`737 and 80’034 USD per year plus benefits. The initial application deadline is December 17<sup>th</sup> 2023, but the positions will remain open until filled.
+The expected pay range for the position is based on experience and is anticipated to be between 66`737 and 80’034 USD per year plus benefits. The positions will remain open until filled.
 
 **About us**
 
