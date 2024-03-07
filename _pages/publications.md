@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 
+And up to date List of publications can be found here: [Google Scholar](https://scholar.google.com/citations?user=65FxKNgAAAAJ&hl=en)
+
 ### 2023
 - **M. A. Lewinsohn, T. Bedford, N. F. Müller\*, A. F. Feder\***  
   “State-dependent evolutionary models reveal modes of solid tumor growth”  
