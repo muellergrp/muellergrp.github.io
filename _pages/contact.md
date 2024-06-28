@@ -7,6 +7,6 @@ author_profile: false
 
 ## Contact Information
 
-- **Email:** nicola.mueller@muellerlab.io
+- **Email:** nicola.mueller@ucsf.edu
 
 
