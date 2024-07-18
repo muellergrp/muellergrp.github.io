@@ -5,7 +5,7 @@ title: ""
 author:
   name   : "Nicola F Müller"
   avatar : "/assets/images/Nicola.jpeg"
-  bio    : Incoming Assistant Professor<br>Division of HIV, Infectious Diseases and Global Medicine<br>Department of Medicine, University of California San Francisco
+  bio    : Assistant Professor<br>Division of HIV, Infectious Diseases and Global Medicine<br>Department of Medicine, University of California San Francisco
   links:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"
@@ -16,9 +16,9 @@ author:
     - label: "nicfel"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nicfel"
-    - label: "nicola.mueller@muellerlab.io"
+    - label: "nicola.mueller@ucsf.edu"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:nicola.mueller@muellerlab.io"
+      url: "mailto:nicola.mueller@ucsf.edu"
 author_profile: true
 
 ---
@@ -32,7 +32,6 @@ After finishing my MSc, I stayed on for my PhD in the same group, developing Bay
 My main work was concerned with using pathogen genomes to learn about how infectious disease spread between different regions and different host species.
 I further developed Bayesian phylogenetic methods to reconstruct how influenza viruses reshuffeled their genome segments, a process called reassortment in the past and studied the local transmission dynamics of influenza viruses in Basel, Switzerland.
 
-After completing my PhD at ETH Zürich, I joined the group of [Prof. Trevor Bedford](https://bedford.io/) at the Fred Hutchinson Cancer Research Center in Seattle, WA, USA as a Swiss National Science Foundation Postdoc Mobility Fellow. During that time, I worked on using genomic data to study the spread of SARS-CoV-2 in Washington State.
-I further develop an approach to reconstruct recombination patterns in coronaviruses.
+After completing my PhD at ETH Zürich, I joined the group of [Prof. Trevor Bedford](https://bedford.io/) at the Fred Hutchinson Cancer Research Center in Seattle, WA, USA as a Swiss National Science Foundation Postdoc Mobility Fellow. During that time, I worked on using genomic data to study the spread of SARS-CoV-2 in Washington State and developped approaches to reconstruct recombination patterns.
 
 
