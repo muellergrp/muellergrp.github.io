@@ -25,7 +25,9 @@ author_profile: true
 
 <h3>Bio</h3>
 
-I did my Bachelor and Master in Biotechnology at ETH Zürich in Switzerland.
+I am an Assistant Professor and a group leader in the Division of HIV, Infectious Disease, and Global Medicine at UCSF and the Experimental and Population-based Pathogen Investigation Center (EPPIcenter). My research develops and applies tools to study the evolutionary and transmission dynamics of infectious diseases from genomic sequence data, with the ultimate goal of informing effective population health interventions. My work has spanned multiple infectious diseases, particularly influenza and coronaviruses, as well as some work on Ebola viruses. This frequently involves developing novel computational tools motivated by questions that could not be answered previously from genomic data. I have published multiple open-source software packages to the Bayesian phylogenetics software platform BEAST2, and am involved in the development of BEAST2. 
+
+Before joining UCSF, I did my Bachelor and Master in Biotechnology at ETH Zürich in Switzerland.
 For my Master thesis, I joined the group of [Prof. Tanja Stadler](https://www.bsse.ethz.ch/cevo/) at ETH Zürich.
 During that time, I became interested in the evolution and transmission of infectious diseases and phylodynamics, i.e. the study of transmission dynamics from phylogenetic trees.
 After finishing my MSc, I stayed on for my PhD in the same group, developing Bayesian phylodynamics appraoches to study the evolution and transmission of infectious diseases.
