@@ -10,12 +10,25 @@ title: ""
 </a>
 
 __Nicola F. Müller, PI__<br/>
-Incoming Assistant Professor<br/>
+Assistant Professor<br/>
 Division of HIV, Infectious Diseases and Global Medicine<br/>
 Department of Medicine
 <br/>
 University of California San Francisco
 <br/><br/>
+
+<a href="/team/Paula">
+<img src="/assets/images/Paula.jpeg" width="30%" title="Paula Weidemüller, PI" align="left" hspace="30">
+</a>
+
+__Paula Weidemüller, PI__<br/>
+Postdoctoral Researcher<br/>
+Division of HIV, Infectious Diseases and Global Medicine<br/>
+Department of Medicine
+<br/>
+University of California San Francisco
+<br/><br/>
+
 
 
 <a href="/join/">
