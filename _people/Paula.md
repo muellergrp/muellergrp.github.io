@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /team/NicolaMueller
+permalink: /team/Paula
 title: ""
 author:
   name   : "Paula Weidemüller"
