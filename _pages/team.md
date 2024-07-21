@@ -21,7 +21,7 @@ University of California San Francisco
   <img src="/assets/images/Paula.jpeg" width="30%" title="Paula Weidemüller, PhD" align="left" hspace="30">
 </a>
 
-__Paula Weidemüller, PI__<br/>
+__Paula Weidemüller, PhD__<br/>
 Postdoctoral Researcher<br/>
 Division of HIV, Infectious Diseases and Global Medicine<br/>
 Department of Medicine
@@ -29,8 +29,11 @@ Department of Medicine
 University of California San Francisco
 <br/><br/>
 
+<br/><br/>
+
 <a href="/join/">
   <img src="/assets/images/blank.png" width="30%" align="left" hspace="30">
 </a>
+
 
 If you are excited about the work we do, get in touch!<br/><br/>
