@@ -29,11 +29,10 @@ Department of Medicine
 University of California San Francisco
 <br/><br/>
 
-<br/><br/>
-
 <a href="/join/">
   <img src="/assets/images/blank.png" width="30%" align="left" hspace="30">
 </a>
 
+__Join__<br/>
 
 If you are excited about the work we do, get in touch!<br/><br/>
