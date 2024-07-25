@@ -116,3 +116,28 @@
 }
 
 
+.team-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.team-member {
+  display: grid;
+  grid-template-columns: 200px 1fr; /* Fixed column width for images, flexible for text */
+  gap: 20px;
+  align-items: start;
+}
+
+.team-member img {
+  width: 100%;
+  height: 250px; /* Fixed height */
+  object-fit: cover; /* Ensure the image covers the set height */
+  object-position: top; /* Align the top part of the image */
+}
+
+.team-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Ensure the text starts from the top */
+}
