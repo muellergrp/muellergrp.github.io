@@ -5,7 +5,7 @@ title: ""
 author:
   name   : "Paula Weidemüller"
   avatar : "/assets/images/Paula.jpeg"
-  bio    : Postdoctoral Scholar<br>Division of HIV, Infectious Diseases and Global Medicine<br>Department of Medicine, University of California San Francisco
+  bio    : Postdoctoral Scholar
   links:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"
