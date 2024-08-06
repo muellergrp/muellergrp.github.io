@@ -5,7 +5,7 @@ title: ""
 author:
   name   : "Nicola F Müller"
   avatar : "/assets/images/Nicola.jpeg"
-  bio    : Assistant Professor
+  bio    : Assistant Professor<br>Division of HIV, Infectious Diseases and Global Medicine<br>Department of Medicine, University of California San Francisco
   links:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"

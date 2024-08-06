@@ -5,7 +5,7 @@ title: ""
 author:
   name   : "Luis R. Esquivel Gomez"
   avatar : "/assets/images/Luis.jpg"
-  bio    : Postdoctoral Scholar
+  bio    : Postdoctoral Scholar<br>Division of HIV, Infectious Diseases and Global Medicine<br>Department of Medicine, University of California San Francisco
   links:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"

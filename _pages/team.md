@@ -11,11 +11,8 @@ title: ""
       <img src="/assets/images/Nicola.jpeg" title="Nicola F. Müller, PI">
     </a>
     <div class="team-info">
-      <strong>Nicola F. Müller, PI</strong><br/>
-      Assistant Professor<br/>
-      Division of HIV, Infectious Diseases and Global Medicine<br/>
-      Department of Medicine<br/>
-      University of California San Francisco<br/><br/>
+      <strong>Nicola F. Müller, PhD</strong><br/>
+      Assistant Professor<br/><br/>
     </div>
   </div>
 
@@ -25,10 +22,7 @@ title: ""
     </a>
     <div class="team-info">
       <strong>Paula Weidemüller, PhD</strong><br/>
-      Postdoctoral Researcher<br/>
-      Division of HIV, Infectious Diseases and Global Medicine<br/>
-      Department of Medicine<br/>
-      University of California San Francisco<br/><br/>
+      Postdoctoral Researcher<br/><br/>
     </div>
   </div>
 
@@ -38,10 +32,7 @@ title: ""
     </a>
     <div class="team-info">
       <strong>Luis R. Esquivel Gomez, PhD</strong><br/>
-      Postdoctoral Researcher<br/>
-      Division of HIV, Infectious Diseases and Global Medicine<br/>
-      Department of Medicine<br/>
-      University of California San Francisco<br/><br/>
+      Postdoctoral Researcher<br/><br/>
     </div>
   </div>
 
