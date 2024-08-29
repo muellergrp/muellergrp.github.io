@@ -13,9 +13,9 @@ author:
     - label: "LuisEGomez"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LuisEGomez"
-    - label: "luis.esquivel.gomez@ucsf.edu"
+    - label: "luis.esquivelgomez@ucsf.edu"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:luis.esquivel.gomez@ucsf.edu"
+      url: "mailto:luis.esquivelgomez@ucsf.edu"
 author_profile: true
 
 ---
