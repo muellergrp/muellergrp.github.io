@@ -37,6 +37,17 @@ title: ""
   </div>
 
   <div class="team-member">
+    <a href="/team/Sophie">
+      <img src="/assets/images/Sophie.jpg" title="Sophie-Christine Porak">
+    </a>
+    <div class="team-info">
+      <strong>Sophie-Christine Porak</strong><br/>
+      Rotation student, UCSF Biophysics PhD program<br/><br/>
+    </div>
+  </div>
+
+
+  <div class="team-member">
     <a href="/join/">
       <img src="/assets/images/blank.png">
     </a>
