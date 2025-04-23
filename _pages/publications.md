@@ -5,7 +5,39 @@ permalink: /publications/
 author_profile: false
 ---
 
-And up to date List of publications can be found here: [Google Scholar](https://scholar.google.com/citations?user=65FxKNgAAAAJ&hl=en)
+A more up to date List of publications can be found here: [Google Scholar](https://scholar.google.com/citations?user=65FxKNgAAAAJ&hl=en)
+
+### 2025
+- **Nicola F. Müller, Ryan R. Wick, Louise M. Judd, Deborah A. Williamson, Trevor Bedford, Benjamin P. Howden, Sebastián Duchêne\*, Danielle J. Ingle\***
+  "Quantifying plasmid movement in drug-resistant Shigella species using phylodynamic inference"
+  BioRxiv.
+  [https://doi.org/10.1101/2022.10.27.514108](https://doi.org/10.1101/2022.10.27.514108)
+
+
+- **Miguel I Paredes, Citina Liang, Sze-Chuan Suen, Ian W Holloway, Jacob M Garrigues, Nicole M Green, Trevor Bedford, Nicola F Mueller\*, Joesph Osmundson\***
+  "Viral introductions and return to baseline sexual behaviors maintain low-level mpox incidence in Los Angeles County, USA, 2023-2024"
+  BioRxiv.
+  [https://doi.org/10.1101/2025.03.14.25323999](https://doi.org/10.1101/2025.03.14.25323999)
+
+
+### 2024
+
+- **M. I. Paredes, N. Ahmed, M. Figgins, V. Colizza, P. Lemey, J. T. McCrone, N. F. Müller, C. Tran-Kiem, T. Bedford**
+  "Underdetected dispersal and extensive local transmission drove the 2022 mpox epidemic"<br />
+  *Cell* 1374-1386. e13
+  [https://doi.org/10.1016/j.cell.2024.02.003](https://doi.org/10.1016/j.cell.2024.02.003)
+
+- **N. Walas, N. F. Müller, E. Parker, A. Henderson, D. Capone, J. Brown, T. Barker, J. P. Graham**
+  “Phylodynamics Uncovers the Transmission of Antibiotic-Resistant Escherichia coli between Canines and Humans in an Urban Environment.”<br />
+  *Science of The Total Environment* 170139
+  [https://doi.org/10.1016/j.scitotenv.2024.170139](https://doi.org/10.1016/j.scitotenv.2024.170139)
+
+
+- **M. I. Paredes, A. C. Perofsky, C. Viboud, H. Chu, N. F. Müller\*, T. Bedford\***
+  "Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county.”<br />
+  *PLoS pathogens* e1012117
+  [https://doi.org/10.1371/journal.ppat.1012117](https://doi.org/10.1371/journal.ppat.1012117)
+
 
 ### 2023
 - **M. A. Lewinsohn, T. Bedford, N. F. Müller\*, A. F. Feder\***  
@@ -17,26 +49,6 @@ And up to date List of publications can be found here: [Google Scholar](https://
   “Impact and mitigation of sampling bias to determine viral spread: evaluating discrete phylogeography through CTMC modeling and structured coalescent model approximations”  
   *Virus Evolution*, vead010  
   [https://doi.org/10.1093/ve/vead010](https://doi.org/10.1093/ve/vead010)
-
-- **N. Walas, N. F. Müller, E. Parker, A. Henderson, D. Capone, J. Brown, T. Barker, J. P. Graham**  
-  “Phylodynamics Uncovers the Transmission of Antibiotic-Resistant Escherichia coli between Canines and Humans in an Urban Environment.”  
-  *BioRxiv*, 2023.  
-  [https://doi.org/10.1101%2F2023.06.01.543064](https://doi.org/10.1101%2F2023.06.01.543064)
-
-- **M. I. Paredes, N. Ahmed, M. Figgins, V. Colizza, P. Lemey, J. T. McCrone, N. F. Müller, C. Tran-Kiem, T. Bedford**  
-  “Early underdetected dissemination across countries followed by extensive local transmission propelled the 2022 mpox epidemic.”  
-  *medRxiv*  
-  [https://doi.org/10.1101/2023.07.27.23293266](https://doi.org/10.1101/2023.07.27.23293266)
-
-- **M. I. Paredes, A. C. Perofsky, C. Viboud, H. Chu, N. F. Müller\*, T. Bedford\***  
-  “Local-Scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county.”  
-  *medRxiv*  
-  [https://doi.org/10.1101/2022.12.15.22283536](https://doi.org/10.1101/2022.12.15.22283536)
-
-- **N. F. Müller, S. Duchêne, D. A. Williamson, B. Howden, D. J. Ingle**  
-  “Tracking the horizontal transfer of plasmids in Shigella sonnei and Shigella flexneri using phylogenetics.”  
-  *BioRxiv*  
-  [https://doi.org/10.1101/2022.10.27.514108](https://doi.org/10.1101/2022.10.27.514108)
 
 ### 2022
 - **N. F. Müller, K. Kistler, T. Bedford**  
