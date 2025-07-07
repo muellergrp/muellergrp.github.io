@@ -37,7 +37,7 @@ title: ""
   </div>
 
   <div class="team-member">
-    <a href="/team/Luis">
+    <a href="/team/Jade">
       <img src="/assets/images/Jade.jpg" title="Jade Masden">
     </a>
     <div class="team-info">
