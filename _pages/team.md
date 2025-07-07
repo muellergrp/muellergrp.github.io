@@ -37,6 +37,23 @@ title: ""
   </div>
 
   <div class="team-member">
+    <a href="/team/Luis">
+      <img src="/assets/images/Jade.jpg" title="Jade Masden">
+    </a>
+    <div class="team-info">
+      <strong>Jade Madsen</strong><br/>
+      Undergraduate Researcher<br/><br/>
+    </div>
+  </div>
+
+<!-- Add big header ALUMNI -->
+<div class="team-member alumni-header">
+  <div class="team-info">
+    <strong>Former members of the Müller Lab</strong><br/>
+  </div>
+</div>
+
+  <div class="team-member">
     <a href="/team/Sophie">
       <img src="/assets/images/Sophie.jpg" title="Sophie-Christine Porak">
     </a>
