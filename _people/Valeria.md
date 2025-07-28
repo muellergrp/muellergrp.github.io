@@ -4,7 +4,7 @@ permalink: /team/Valeria
 title: ""
 author:
   name   : "Valeria Sanchez Estrada"
-  avatar : "/assets/images/Paula.jpg"
+  avatar : "/assets/images/valeria.jpg"
   bio    : PhD Student<br>Biological and Medical Informatics<br>University of California, San Francisco
   links:
     - label: "valeria.sanchezestrada@ucsf.edu"

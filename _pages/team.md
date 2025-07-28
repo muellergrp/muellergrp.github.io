@@ -38,7 +38,7 @@ title: ""
 
   <div class="team-member">
     <a href="/team/Valeria">
-      <img src="/assets/images/Valeria.jpg" title="Valeria Sanchez Estrada">
+      <img src="/assets/images/valeria.jpg" title="Valeria Sanchez Estrada">
     </a>
     <div class="team-info">
       <strong>Valeria Sanchez Estrada</strong><br/>
