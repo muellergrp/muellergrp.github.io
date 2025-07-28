@@ -37,6 +37,17 @@ title: ""
   </div>
 
   <div class="team-member">
+    <a href="/team/Valeria">
+      <img src="/assets/images/Valeria.jpg" title="Valeria Sanchez Estrada">
+    </a>
+    <div class="team-info">
+      <strong>Valeria Sanchez Estrada</strong><br/>
+      PhD Student<br/><br/>
+    </div>
+  </div>
+
+
+  <div class="team-member">
     <a href="/team/Jade">
       <img src="/assets/images/Jade.jpg" title="Jade Masden">
     </a>
