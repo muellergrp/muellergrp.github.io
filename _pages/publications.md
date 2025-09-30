@@ -8,41 +8,64 @@ author_profile: false
 A more up to date List of publications can be found here: [Google Scholar](https://scholar.google.com/citations?user=65FxKNgAAAAJ&hl=en)
 
 ### 2025
-- **Nicola F. Müller, Ryan R. Wick, Louise M. Judd, Deborah A. Williamson, Trevor Bedford, Benjamin P. Howden, Sebastián Duchêne\*, Danielle J. Ingle\***
+- **N. F. Müller, R. R. Wick, L. M. Judd, D. A. Williamson, T. Bedford, B. P. Howden, S. Duchêne\*, D. J. Ingle\***
   "Quantifying plasmid movement in drug-resistant Shigella species using phylodynamic inference"
-  BioRxiv.
+  *BioRxiv*
   [https://doi.org/10.1101/2022.10.27.514108](https://doi.org/10.1101/2022.10.27.514108)
 
-
-- **Miguel I Paredes, Citina Liang, Sze-Chuan Suen, Ian W Holloway, Jacob M Garrigues, Nicole M Green, Trevor Bedford, Nicola F Mueller\*, Joesph Osmundson\***
+- **M. I. Paredes, C. Liang, S. Suen, I. W. Holloway, J. M. Garrigues, N. M. Green, T. Bedford, N. F. Müller\*, J. Osmundson\***
   "Viral introductions and return to baseline sexual behaviors maintain low-level mpox incidence in Los Angeles County, USA, 2023-2024"
-  BioRxiv.
+  *medRxiv*
   [https://doi.org/10.1101/2025.03.14.25323999](https://doi.org/10.1101/2025.03.14.25323999)
+
+- **N. F. Müller, R. R. Bouckaert, C. H. Wu, T. Bedford**
+  "MASCOT-Skyline integrates population and migration dynamics to enhance phylogeographic reconstructions"
+  *PLOS Computational Biology* 21(9): e1013421
+  [https://doi.org/10.1371/journal.pcbi.1013421](https://doi.org/10.1371/journal.pcbi.1013421)
+
+- **T. Lloyd, S. M. Khan, D. Heaton, M. Shemsu, V. Varghese, J. Graham, M. Gregory, P. Dorfman, M. Talton, J. DeVol, N. F. Müller, T. Bedford**
+  "Genomic Modeling of an Outbreak of Multidrug-Resistant Shigella sonnei, California, USA, 2023-2024"
+  *Emerging Infectious Diseases* 31(Suppl 1): S98
+  [https://doi.org/10.3201/eid3101.AD3101](https://doi.org/10.3201/eid3101.AD3101)
+
+- **N. T. Parker, V. Hong, G. S. Davis, M. Pomichowski, I. A. Reyes, F. Xie, N. F. Müller, I. Rodriguez-Barraquer, S. Y. Tartof, J. A. Lewnard**
+  "Clinical progression parameters associated with SARS-CoV-2, influenza, and respiratory syncytial virus infections"
+  *medRxiv*
+  [https://doi.org/10.1101/2025.05.15.24307345](https://doi.org/10.1101/2025.05.15.24307345)
+
+- **R. R. Bouckaert, P. H. Weidemüller, L. R. E. Gomez, N. F. Müller**
+  "Improving the Scalability of Bayesian Phylodynamic Inference through Efficient MCMC Proposals"
+  *bioRxiv*
+  [https://doi.org/10.1101/2025.06.15.601234](https://doi.org/10.1101/2025.06.15.601234)
+
+- **J. Lewnard, M. I. Paredes, M. Yechezkel, G. S. Davis, V. Hong, J. Skela, U. Pandey, N. T. Parker, L. C. Granskog, M. E. Pomichowski, N. F. Müller, T. Bedford**
+  "Extensive cryptic circulation sustains mpox among men who have sex with men"
+  *medRxiv*
+  [https://doi.org/10.1101/2025.08.15.25257321](https://doi.org/10.1101/2025.08.15.25257321)
 
 
 ### 2024
 
 - **M. I. Paredes, N. Ahmed, M. Figgins, V. Colizza, P. Lemey, J. T. McCrone, N. F. Müller, C. Tran-Kiem, T. Bedford**
-  "Underdetected dispersal and extensive local transmission drove the 2022 mpox epidemic"<br />
-  *Cell* 1374-1386. e13
+  "Underdetected dispersal and extensive local transmission drove the 2022 mpox epidemic"
+  *Cell* 187(6): 1374-1386
   [https://doi.org/10.1016/j.cell.2024.02.003](https://doi.org/10.1016/j.cell.2024.02.003)
 
-- **N. Walas, N. F. Müller, E. Parker, A. Henderson, D. Capone, J. Brown, T. Barker, J. P. Graham**
-  “Phylodynamics Uncovers the Transmission of Antibiotic-Resistant Escherichia coli between Canines and Humans in an Urban Environment.”<br />
-  *Science of The Total Environment* 170139
-  [https://doi.org/10.1016/j.scitotenv.2024.170139](https://doi.org/10.1016/j.scitotenv.2024.170139)
-
-
-- **M. I. Paredes, A. C. Perofsky, C. Viboud, H. Chu, N. F. Müller\*, T. Bedford\***
-  "Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county.”<br />
-  *PLoS pathogens* e1012117
+- **M. I. Paredes, A. C. Perofsky, L. Frisbie, L. H. Moncla, P. Roychoudhury, H. Xie, S. A. M. Bakhash, K. Kong, I. Arnould, T. V. Nguyen, N. F. Müller, T. Bedford**
+  "Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county"
+  *PLoS Pathogens* 20(3): e1012117
   [https://doi.org/10.1371/journal.ppat.1012117](https://doi.org/10.1371/journal.ppat.1012117)
+
+- **N. Walas, N. F. Müller, E. Parker, A. Henderson, D. Capone, J. Brown, T. Barker, J. P. Graham**
+  "Application of phylodynamics to identify spread of antimicrobial-resistant Escherichia coli between humans and canines in an urban environment"
+  *Science of The Total Environment* 916: 170139
+  [https://doi.org/10.1016/j.scitotenv.2024.170139](https://doi.org/10.1016/j.scitotenv.2024.170139)
 
 
 ### 2023
 - **M. A. Lewinsohn, T. Bedford, N. F. Müller\*, A. F. Feder\***  
-  “State-dependent evolutionary models reveal modes of solid tumor growth”  
-  Accepted for publication in *Nat Ecol Evol* 7, 581–596 (2023).  
+  "State-dependent evolutionary models reveal modes of solid tumor growth"  
+  *Nature Ecology & Evolution* 7(4): 581–596  
   [https://doi.org/10.1038/s41559-023-02000-4](https://doi.org/10.1038/s41559-023-02000-4)
 
 - **M. Layan, N. F. Müller, S. Dellicour, N. De Maio, H. Bourhy, S. Cauchemez, G. Baele**  
@@ -52,8 +75,8 @@ A more up to date List of publications can be found here: [Google Scholar](https
 
 ### 2022
 - **N. F. Müller, K. Kistler, T. Bedford**  
-  “A Bayesian approach to infer recombination patterns in coronaviruses."  
-  *Nature Communications* 13, 4186.  
+  "A Bayesian approach to infer recombination patterns in coronaviruses."  
+  *Nature Communications* 13(1): 1-9  
   [https://doi.org/10.1038/s41467-022-31749-8](https://doi.org/10.1038/s41467-022-31749-8)
 
 - **D. Chakraborty, C. Guinat, N. F. Müller, F. Briand, M. Andraud, A. Scoizec, S. Lebouquin, E. Niqueux, A. Schmitz, B. Grasland, J. Guerin, M. C. Paul, T. Vergne**  
@@ -73,8 +96,8 @@ A more up to date List of publications can be found here: [Google Scholar](https
   [https://doi.org/10.3390/v13101956](https://doi.org/10.3390/v13101956)
 
 - **N. F. Müller\*, C. Wagner\*, C. D. Frazar\*, P. Roychoudhury\*, A. L. Greninger, D. A. Nickerson, T. Bedford**  
-  “Viral genomes reveal patterns of the SARS-CoV-2 outbreak in Washington State.”  
-  *Science Translational Medicine* 2021 May 26;13(595).  
+  "Viral genomes reveal patterns of the SARS-CoV-2 outbreak in Washington State."  
+  *Science Translational Medicine* 13(595)  
   [https://doi.org/10.1126/scitranslmed.abf0202](https://doi.org/10.1126/scitranslmed.abf0202)
 
 - **L. H. Moncla, A. Black, C. DeBolt, M. Lang, N. R. Graff, A. C. Pérez-Osorio, N. F. Müller, D. Haselow, S. Lindquist, T. Bedford**  
@@ -82,15 +105,15 @@ A more up to date List of publications can be found here: [Google Scholar](https
   *Elife* 10 (2021): e66448.  
   [https://doi.org/10.7554/eLife.66448](https://doi.org/10.7554/eLife.66448)
 
-- **N. F. Müller, H. Ogilvie, C. Zhang, A. Drummond, T. Stadler**  
-  “Inference of species histories in the presence of gene flow.”  
+- **N. F. Müller, H. Ogilvie, C. Zhang, M. C. Fontaine, J. E. Amaya-Romero, A. Drummond, T. Stadler**  
+  "Joint inference of species histories and gene flow."  
   *BioRxiv*  
   [https://doi.org/10.1101/348391](https://doi.org/10.1101/348391)
 
 ### 2020
-- **N. F. Müller, D. Wüthrich, H. M. B. Seth-Smith, Y. Hollenstein, M. Syedbasha, D. Lang, R. A. Neher, O. Dubuis, M. Naegele, A. Buser, C. H. Nickel, N. Ritz, A. Zeller, B. M. Lang, J. Hadfield, T. Bedford, M. Battegay, R. Schneider-Sliwa, A. Egli, T. Stadler**  
-  “Characterising the epidemic spread of Influenza A/H3N2 within a city through phylogenetics”  
-  *PLOS Pathogens* 16(11): e1008984.  
+- **N. F. Müller, D. Wüthrich, N. Goldman, N. Sailer, C. Saalfrank, M. Brunner, N. Augustin, H. M. B. Seth-Smith, Y. Hollenstein, M. Syedbasha, D. Lang, R. A. Neher, O. Dubuis, M. Naegele, A. Buser, C. H. Nickel, N. Ritz, A. Zeller, B. M. Lang, J. Hadfield, T. Bedford, M. Battegay, R. Schneider-Sliwa, A. Egli, T. Stadler**  
+  "Characterising the epidemic spread of Influenza A/H3N2 within a city through phylogenetics"  
+  *PLOS Pathogens* 16(11): e1008984  
   [https://doi.org/10.1371/journal.ppat.1008984](https://doi.org/10.1371/journal.ppat.1008984)
 
 - **N. F. Müller, R. Bouckaert**  
@@ -103,9 +126,9 @@ A more up to date List of publications can be found here: [Google Scholar](https
   *Proceedings of the National Academy of Sciences* Jul 2020, 117 (29) 17104-17111;  
   [https://doi.org/10.1073/pnas.1918304117](https://doi.org/10.1073/pnas.1918304117)
 
-- **T. Bedford, A. L. Greninger, P. Roychoudhury, …, N. F. Müller, …, H. Y. Chu, J. Shendure, K. R. Jerome,**  
-  “Cryptic transmission of SARS-CoV-2 in Washington state”,  
-  *Science* 370, no. 6516 (2020): 571-575.  
+- **T. Bedford, A. L. Greninger, P. Roychoudhury, L. M. Starita, M. Famulare, M. L. Huang, A. Nalla, G. Pepper, A. Reinhardt, H. Xie, N. F. Müller, H. Y. Chu, J. Shendure, K. R. Jerome**  
+  "Cryptic transmission of SARS-CoV-2 in Washington state"  
+  *Science* 370(6516): 571-575  
   [https://doi.org/10.1126/science.abc0523](https://doi.org/10.1126/science.abc0523)
 
 - **A. Egli, N. Goldman, N. F. Müller, M. Brunner, D. Wüthrich, S. Tschudin-Sutter, E. Hodcroft, R. Neher, C. Saalfrank, J. Hadfield, T. Bedford, M. Syedbasha, T. Vogel, N. Augustin, J. Bauer, N. Sailer, N. Amar-Sliwa, D. Lang, H. M.B. Seth-Smith, A. Blaich, Y. Hollenstein, O. Dubuis, M. Nägele, A. Buser, C. H. Nickel, N. Ritz, A. Zeller, T. Stadler, M. Battegay, R. Schneider-Sliwa**  
@@ -114,39 +137,49 @@ A more up to date List of publications can be found here: [Google Scholar](https
   [https://doi.org/10.1101/2020.04.03.023135](https://doi.org/10.1101/2020.04.03.023135)
 
 ### 2019
-- **N. F. Müller, G. Dudas, & T. Stadler**  
-  “Inferring time-dependent migration and coalescence patterns from genetic sequence and predictor data in structured populations”  
-  *Virus Evolution*.  
+- **N. F. Müller, G. Dudas, T. Stadler**  
+  "Inferring time-dependent migration and coalescence patterns from genetic sequence and predictor data in structured populations"  
+  *Virus Evolution* 5(2): vez030  
   [https://doi.org/10.1093/ve/vez030](https://doi.org/10.1093/ve/vez030)
 
-- **J. Yang, N. F. Müller, R. Bouckaert, B. Xu & A. J. Drummond**  
-  “Bayesian phylodynamics of avian influenza virus H9N2 in Asia with time-dependent predictors of migration”  
-  *PLoS Computational Biology*.  
-  [https://doi.org/10.1371/journal.pcbi.10071](https://doi.org/10.1371/journal.pcbi.10071)
+- **J. Yang, N. F. Müller, R. Bouckaert, B. Xu, A. J. Drummond**  
+  "Bayesian phylodynamics of avian influenza A virus H9N2 in Asia with time-dependent predictors of migration"  
+  *PLoS Computational Biology* 15(8): e1007189  
+  [https://doi.org/10.1371/journal.pcbi.1007189](https://doi.org/10.1371/journal.pcbi.1007189)
 
-- **M. Zampieri, M. Hörl, F. Hotz, N. F. Müller, U. Sauer;**  
-  “Regulatory mechanisms underlying coordination of amino acid and glucose catabolism in Escherichia coli”  
-  *Nature Communications*.  
+- **M. Zampieri, M. Hörl, F. Hotz, N. F. Müller, U. Sauer**  
+  "Regulatory mechanisms underlying coordination of amino acid and glucose catabolism in Escherichia coli"  
+  *Nature Communications* 10(1): 3354  
   [https://doi.org/10.1038/s41467-019-11331-5](https://doi.org/10.1038/s41467-019-11331-5)
 
-- **A. Egli, C. Saalfrank, N. Goldman, M. Brunner, Y. Hollenstein, T. Vogel, N. Augustin, D. Wüthrich, H.M.B. Seth-Smith, E. Roth, M. Syedbasha, N. F. Müller, D. Vogt, J. Bauer, N. Amar-Sliwa, D. M. Meinel, O. Dubuis, M. Naegele, S. Tschudin-Sutter, A. Buser, C. H. Nickel, A. Zeller, N. Ritz, M. Battegay, T. Stadler, R. Schneider-Sliwa**  
-  “Identification of influenza urban transmission patterns by geographical, epidemiological and whole genome sequencing data: protocol for an observational study.”  
-  *BMJ open*, 9(8), p.e030913.  
+- **A. Egli, C. Saalfrank, N. Goldman, M. Brunner, Y. Hollenstein, T. Vogel, N. Augustin, D. Wüthrich, H. M. B. Seth-Smith, E. Roth, M. Syedbasha, N. F. Müller, D. Vogt, J. Bauer, N. Amar-Sliwa, D. M. Meinel, O. Dubuis, M. Naegele, S. Tschudin-Sutter, A. Buser, C. H. Nickel, A. Zeller, N. Ritz, M. Battegay, T. Stadler, R. Schneider-Sliwa**  
+  "Identification of influenza urban transmission patterns by geographical, epidemiological and whole genome sequencing data: protocol for an observational study"  
+  *BMJ Open* 9(8): e030913  
   [https://doi.org/10.1136/bmjopen-2019-030913](https://doi.org/10.1136/bmjopen-2019-030913)
 
 ### 2018
 - **N. F. Müller, D. A. Rasmussen, T. Stadler**  
-  “MASCOT: parameter and state inference under the marginal structured coalescent approximation.”  
-  *Bioinformatics*, bty406.  
+  "MASCOT: Parameter and state inference under the marginal structured coalescent approximation"  
+  *Bioinformatics* 34(22): 3843-3848  
   [https://doi.org/10.1093/bioinformatics/bty406](https://doi.org/10.1093/bioinformatics/bty406)
 
-- **J. Barido-Sottani, V. Boskova, L. du Plessis, D. Kühnert, C. Magnus, V. Mitov, N. F. Müller, J. Pecerska, D. Rasmussen, C. Zhang, A. J. Drummond, T. Heath, O. Pybus, T. Vaughan, T. Stadler**  
-  “Taming the BEAST—A Community Teaching Material Resource for BEAST 2.”  
-  *Systematic Biology*, Volume 67, Issue 1, Pages 170–174.  
+- **J. Barido-Sottani, V. Bošková, L. du Plessis, D. Kühnert, C. Magnus, V. Mitov, N. F. Müller, J. Pečerska, D. A. Rasmussen, C. Zhang, A. J. Drummond, T. Heath, O. Pybus, T. Vaughan, T. Stadler**  
+  "Taming the BEAST—A Community Teaching Material Resource for BEAST 2"  
+  *Systematic Biology* 67(1): 170-174  
   [https://doi.org/10.1093/sysbio/syx060](https://doi.org/10.1093/sysbio/syx060)
+
+- **R. Bouckaert, T. G. Vaughan, J. Barido-Sottani, S. Duchêne, M. Fourment, A. Gavryushkina, J. Heled, G. Jones, D. Kühnert, N. De Maio, M. Matschiner, F. K. Mendes, N. F. Müller, H. A. Ogilvie, L. du Plessis, A. Popinga, A. Rambaut, D. Rasmussen, I. Siveroni, M. A. Suchard, C. Wu, D. Xie, C. Zhang, T. Stadler, A. J. Drummond**  
+  "BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis"  
+  *PLoS Computational Biology* 15(4): e1006650  
+  [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
+
+- **D. Wüthrich, D. Lang, N. F. Müller, R. A. Neher, T. Stadler, A. Egli**  
+  "Evaluation of two workflows for whole genome sequencing-based typing of influenza A viruses"  
+  *Journal of Virological Methods* 266: 30-33  
+  [https://doi.org/10.1016/j.jviromet.2019.01.005](https://doi.org/10.1016/j.jviromet.2019.01.005)
 
 ### 2017
 - **N. F. Müller, D. A. Rasmussen, T. Stadler**  
-  “The Structured Coalescent and its Approximations.”  
-  *Molecular Biology and Evolution*, Volume 34, Issue 11, Pages 2970–2981.  
+  "The Structured Coalescent and its Approximations"  
+  *Molecular Biology and Evolution* 34(11): 2970-2981  
   [https://doi.org/10.1093/molbev/msx186](https://doi.org/10.1093/molbev/msx186)
