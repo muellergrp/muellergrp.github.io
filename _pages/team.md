@@ -57,6 +57,16 @@ title: ""
     </div>
   </div>
 
+  <div class="team-member">
+    <a href="/team/Sara">
+      <img src="/assets/images/Sara.jpeg" title="Sara Jordan">
+    </a>
+    <div class="team-info">
+      <strong>Sara Jordan</strong><br/>
+      Undergraduate Researcher<br/><br/>
+    </div>
+  </div>
+
 <!-- Add big header ALUMNI -->
 <div class="team-member alumni-header">
   <div class="team-info">

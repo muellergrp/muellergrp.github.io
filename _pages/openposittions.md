@@ -11,7 +11,7 @@ If you are interested in joining the lab for a PhD, postdoc, or research assista
 
 The lab is actively looking for rotation students who are interested in computational biology, phylodynamics, and infectious disease research. Rotation students will have the opportunity to work on exciting projects involving the analysis of pathogen transmission dynamics and evolution. If you are a graduate student at UCSF looking for a rotation, please reach out to discuss potential projects.
 
-I'm mainly part of the [Biomedical Informatics (BMI) Program](https://bmi.ucsf.edu/) at UCSF. If you are interested in doing a PhD in the [EPPI Translational Science Program](https://eppicenter.ucsf.edu/education/translational-science-program), please reach out.
+I'm mainly part of the [Biomedical Informatics (BMI) Program](https://bmi.ucsf.edu/) at UCSF. If you are interested in doing a PhD in the [Epidemiology Translational Science Program](https://epibiostat.ucsf.edu/doctoral-program-epidemiology-translational-science), please reach out.
 
 ## Postdoctoral Position
 
