@@ -58,12 +58,12 @@ title: ""
 
 
   <div class="team-member">
-    <a href="/team/Jade">
-      <img src="/assets/images/Jade.jpg" title="Jade Masden">
+    <a href="/team/Analisa">
+      <img src="/assets/images/headshot-analisa.jpeg" title="Analisa Milkey">
     </a>
     <div class="team-info">
-      <strong>Jade Madsen</strong><br/>
-      Undergraduate Researcher<br/><br/>
+      <strong>Analisa Milkey, PhD</strong><br/>
+      Postdoctoral Scholar<br/><br/>
     </div>
   </div>
 
@@ -83,6 +83,16 @@ title: ""
     <strong>Former members of the Müller Lab</strong><br/>
   </div>
 </div>
+
+  <div class="team-member">
+    <a href="/team/Jade">
+      <img src="/assets/images/Jade.jpg" title="Jade Masden">
+    </a>
+    <div class="team-info">
+      <strong>Jade Madsen</strong><br/>
+      Undergraduate Researcher<br/><br/>
+    </div>
+  </div>
 
   <div class="team-member">
     <a href="/team/Sophie">
