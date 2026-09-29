@@ -7,42 +7,78 @@ author_profile: false
 
 A more up to date List of publications can be found here: [Google Scholar](https://scholar.google.com/citations?user=65FxKNgAAAAJ&hl=en)
 
+### 2026
+- **P. H. Weidemueller, L. R. Esquivel Gomez, I. Rodriguez-Barraquer, N. F. Müller**
+  "MASCOT-DS improves transmission dynamics inference by integrating multiple epidemiological data streams with phylodynamic inference"
+  *medRxiv*
+  [https://doi.org/10.64898/2026.08.21.26361056](https://doi.org/10.64898/2026.08.21.26361056)
+
+- **S. Gunasekera, N. F. Müller, P. P. Martinez**
+  "Phylogenetic network reconstruction reveals reassortment signatures at segment and genotype levels in human Rotavirus A"
+  *bioRxiv*
+  [https://doi.org/10.64898/2026.08.11.744215](https://doi.org/10.64898/2026.08.11.744215)
+
+- **M. S. Y. Lau, L. Lyu, N. F. Müller, Z. Liu, L. Damodaran, W. Jin**
+  "Rapid Phylogeographic Inference of Regional Epidemic Dynamics for Routine Genomic Surveillance"
+  *Research Square*
+  [https://doi.org/10.21203/rs.3.rs-10631496/v1](https://doi.org/10.21203/rs.3.rs-10631496/v1)
+
+- **M. Yechezkel, B. Kapadia, V. Hong, J. T. Lim, I. A. C. Reyes, M. E. Pomichowski, G. S. Davis, I. Rodriguez-Barraquer, N. F. Müller, S. Y. Tartof, J. A. Lewnard**
+  "Indirect and direct effects of doxycycline post-exposure prophylaxis: an observational study in a US healthcare system"
+  *medRxiv*
+  [https://doi.org/10.64898/2026.07.21.26358607](https://doi.org/10.64898/2026.07.21.26358607)
+
+- **R. Rivero, D. Simons, L. Damodaran, I. Karegi, S. Gurev, D. J. Becker, D. L. Warren, N. F. Müller, D. A. Rasmussen, S. N. Seifert**
+  "Molecular and ecological determinants of effective reassortment in orthohantaviruses"
+  *bioRxiv*
+  [https://doi.org/10.64898/2026.06.10.731004](https://doi.org/10.64898/2026.06.10.731004)
+
+- **M. Yechezkel, D. Helekal, B. Kapadia, V. Hong, M. E. Pomichowski, I. A. C. Reyes, G. S. Davis, N. F. Müller, Y. H. Grad, S. Y. Tartof, J. A. Lewnard**
+  "Durability of doxycycline effectiveness against gonorrhoea after implementation of post-exposure prophylaxis in southern California, USA: a retrospective, test-negative, observational study"
+  *The Lancet Infectious Diseases* 26(8): 819–831
+  [https://doi.org/10.1016/S1473-3099(26)00123-4](https://doi.org/10.1016/S1473-3099%2826%2900123-4)
+
+- **J. A. Lewnard, M. I. Paredes, M. Yechezkel, G. S. Davis, V. Hong, J. Skela, U. Pandey, N. T. Parker, L. C. Granskog, M. E. Pomichowski, I. A. C. Reyes, I. Rodriguez-Barraquer, N. F. Müller, S. Y. Tartof**
+  "Extensive cryptic circulation sustains mpox among men who have sex with men"
+  *Nature Communications* 17: 4198
+  [https://doi.org/10.1038/s41467-026-72749-2](https://doi.org/10.1038/s41467-026-72749-2)
+
+- **M. I. Paredes, C. Liang, S. Suen, I. W. Holloway, J. M. Garrigues, N. M. Green, T. Bedford, N. F. Müller\*, J. Osmundson\***
+  "Viral introductions and return to baseline sexual behaviors maintain low-level mpox incidence in Los Angeles"
+  *Nature Communications* 17: 5376
+  [https://doi.org/10.1038/s41467-026-71993-w](https://doi.org/10.1038/s41467-026-71993-w)
+
+- **L. Damodaran, J. A. Lewnard, G. S. Davis, S. Y. Tartof, L. H. Moncla, N. F. Müller**
+  "Frequent seasonal reassortment between high and low path viruses drives the diversification of influenza A/H5N1"
+  *bioRxiv*
+  [https://doi.org/10.64898/2026.04.17.719307](https://doi.org/10.64898/2026.04.17.719307)
+
+
 ### 2025
 - **N. F. Müller, R. R. Wick, L. M. Judd, D. A. Williamson, T. Bedford, B. P. Howden, S. Duchêne\*, D. J. Ingle\***
   "Quantifying plasmid movement in drug-resistant Shigella species using phylodynamic inference"
-  *BioRxiv*
-  [https://doi.org/10.1101/2022.10.27.514108](https://doi.org/10.1101/2022.10.27.514108)
-
-- **M. I. Paredes, C. Liang, S. Suen, I. W. Holloway, J. M. Garrigues, N. M. Green, T. Bedford, N. F. Müller\*, J. Osmundson\***
-  "Viral introductions and return to baseline sexual behaviors maintain low-level mpox incidence in Los Angeles County, USA, 2023-2024"
-  *medRxiv*
-  [https://doi.org/10.1101/2025.03.14.25323999](https://doi.org/10.1101/2025.03.14.25323999)
+  *PLOS Pathogens* 21(12): e1013621
+  [https://doi.org/10.1371/journal.ppat.1013621](https://doi.org/10.1371/journal.ppat.1013621)
 
 - **N. F. Müller, R. R. Bouckaert, C. H. Wu, T. Bedford**
   "MASCOT-Skyline integrates population and migration dynamics to enhance phylogeographic reconstructions"
   *PLOS Computational Biology* 21(9): e1013421
   [https://doi.org/10.1371/journal.pcbi.1013421](https://doi.org/10.1371/journal.pcbi.1013421)
 
-- **T. Lloyd, S. M. Khan, D. Heaton, M. Shemsu, V. Varghese, J. Graham, M. Gregory, P. Dorfman, M. Talton, J. DeVol, N. F. Müller, T. Bedford**
-  "Genomic Modeling of an Outbreak of Multidrug-Resistant Shigella sonnei, California, USA, 2023-2024"
-  *Emerging Infectious Diseases* 31(Suppl 1): S98
-  [https://doi.org/10.3201/eid3101.AD3101](https://doi.org/10.3201/eid3101.AD3101)
+- **T. Lloyd, S. M. Khan, D. Heaton, M. Shemsu, V. Varghese, J. Graham, M. Gregory, P. Dorfman, M. Talton, J. DeVol, K. K. Trivedi, N. F. Müller**
+  "Genomic Modeling of an Outbreak of Multidrug-Resistant Shigella sonnei, California, USA, 2023–2024"
+  *Emerging Infectious Diseases* 31(13)
+  [https://doi.org/10.3201/eid3113.241307](https://doi.org/10.3201/eid3113.241307)
 
 - **N. T. Parker, V. Hong, G. S. Davis, M. Pomichowski, I. A. Reyes, F. Xie, N. F. Müller, I. Rodriguez-Barraquer, S. Y. Tartof, J. A. Lewnard**
-  "Clinical progression parameters associated with SARS-CoV-2, influenza, and respiratory syncytial virus infections"
-  *medRxiv*
-  [https://doi.org/10.1101/2025.05.15.24307345](https://doi.org/10.1101/2025.05.15.24307345)
+  "Clinical progression parameters associated with SARS-CoV-2, influenza, and respiratory syncytial virus infections in a large US integrated healthcare population"
+  *PLOS Computational Biology* 21(11): e1013723
+  [https://doi.org/10.1371/journal.pcbi.1013723](https://doi.org/10.1371/journal.pcbi.1013723)
 
-- **R. R. Bouckaert, P. H. Weidemüller, L. R. E. Gomez, N. F. Müller**
+- **R. R. Bouckaert, P. H. Weidemüller, L. R. Esquivel Gomez, N. F. Müller**
   "Improving the Scalability of Bayesian Phylodynamic Inference through Efficient MCMC Proposals"
   *bioRxiv*
-  [https://doi.org/10.1101/2025.06.15.601234](https://doi.org/10.1101/2025.06.15.601234)
-
-- **J. Lewnard, M. I. Paredes, M. Yechezkel, G. S. Davis, V. Hong, J. Skela, U. Pandey, N. T. Parker, L. C. Granskog, M. E. Pomichowski, N. F. Müller, T. Bedford**
-  "Extensive cryptic circulation sustains mpox among men who have sex with men"
-  *medRxiv*
-  [https://doi.org/10.1101/2025.08.15.25257321](https://doi.org/10.1101/2025.08.15.25257321)
-
+  [https://doi.org/10.1101/2025.06.18.660471](https://doi.org/10.1101/2025.06.18.660471)
 
 ### 2024
 
@@ -157,6 +193,16 @@ A more up to date List of publications can be found here: [Google Scholar](https
   *BMJ Open* 9(8): e030913  
   [https://doi.org/10.1136/bmjopen-2019-030913](https://doi.org/10.1136/bmjopen-2019-030913)
 
+- **R. Bouckaert, T. G. Vaughan, J. Barido-Sottani, S. Duchêne, M. Fourment, A. Gavryushkina, J. Heled, G. Jones, D. Kühnert, N. De Maio, M. Matschiner, F. K. Mendes, N. F. Müller, H. A. Ogilvie, L. du Plessis, A. Popinga, A. Rambaut, D. Rasmussen, I. Siveroni, M. A. Suchard, C. Wu, D. Xie, C. Zhang, T. Stadler, A. J. Drummond**  
+  "BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis"  
+  *PLoS Computational Biology* 15(4): e1006650  
+  [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
+
+- **D. Wüthrich, D. Lang, N. F. Müller, R. A. Neher, T. Stadler, A. Egli**  
+  "Evaluation of two workflows for whole genome sequencing-based typing of influenza A viruses"  
+  *Journal of Virological Methods* 266: 30-33  
+  [https://doi.org/10.1016/j.jviromet.2019.01.009](https://doi.org/10.1016/j.jviromet.2019.01.009)
+
 ### 2018
 - **N. F. Müller, D. A. Rasmussen, T. Stadler**  
   "MASCOT: Parameter and state inference under the marginal structured coalescent approximation"  
@@ -167,16 +213,6 @@ A more up to date List of publications can be found here: [Google Scholar](https
   "Taming the BEAST—A Community Teaching Material Resource for BEAST 2"  
   *Systematic Biology* 67(1): 170-174  
   [https://doi.org/10.1093/sysbio/syx060](https://doi.org/10.1093/sysbio/syx060)
-
-- **R. Bouckaert, T. G. Vaughan, J. Barido-Sottani, S. Duchêne, M. Fourment, A. Gavryushkina, J. Heled, G. Jones, D. Kühnert, N. De Maio, M. Matschiner, F. K. Mendes, N. F. Müller, H. A. Ogilvie, L. du Plessis, A. Popinga, A. Rambaut, D. Rasmussen, I. Siveroni, M. A. Suchard, C. Wu, D. Xie, C. Zhang, T. Stadler, A. J. Drummond**  
-  "BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis"  
-  *PLoS Computational Biology* 15(4): e1006650  
-  [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
-
-- **D. Wüthrich, D. Lang, N. F. Müller, R. A. Neher, T. Stadler, A. Egli**  
-  "Evaluation of two workflows for whole genome sequencing-based typing of influenza A viruses"  
-  *Journal of Virological Methods* 266: 30-33  
-  [https://doi.org/10.1016/j.jviromet.2019.01.005](https://doi.org/10.1016/j.jviromet.2019.01.005)
 
 ### 2017
 - **N. F. Müller, D. A. Rasmussen, T. Stadler**  
