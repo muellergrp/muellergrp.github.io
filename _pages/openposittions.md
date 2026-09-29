@@ -13,9 +13,6 @@ The lab is actively looking for rotation students who are interested in computat
 
 I'm mainly part of the [Biomedical Informatics (BMI) Program](https://bmi.ucsf.edu/) at UCSF. If you are interested in doing a PhD in the [Epidemiology Translational Science Program](https://epibiostat.ucsf.edu/doctoral-program-epidemiology-translational-science), please reach out.
 
-## Postdoctoral Position
+## Postdoctoral Positions
 
-The Mueller lab at UCSF is seeking a postdoctoral research fellow in phylodynamics to develop novel MCMC inference approaches for studying infectious disease transmission dynamics from pathogen genome data. The position is fully funded and offers opportunities for close mentorship within the multidisciplinary EPPIcenter research environment.
-
-
-
+If you are interested in joining the lab as a postdoc, please reach out to <nicola.mueller@ucsf.edu>.
